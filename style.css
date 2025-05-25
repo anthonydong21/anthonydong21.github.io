@@ -1,1 +1,14 @@
-
+@font-face {
+    font-family: 'MorrisRoman';
+    src: url(fonts/MorrisRomanBlack.ttf);
+}
+  .title-style {
+        font-family: 'MorrisRoman', 'Franklin Gothic';
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+    }
