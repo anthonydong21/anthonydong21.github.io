@@ -28,7 +28,7 @@ body {
     border-bottom-right-radius: 7px;
     border-style: solid;
     border-color: #bf80ff;
-    border-width: 0 3px 3px;
+    border-width: 3px 3px 3px;
 }
 @font-face {
     font-family: 'MorrisRoman';
