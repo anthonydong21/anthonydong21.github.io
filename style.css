@@ -6,6 +6,7 @@ body {
 	background: #000000 url("./images//background.jpg");
         z-index: 2;
         font-family: 'MorrisRoman', 'Franklin Gothic';
+	z-index: 0;
 }
 .center {
     display: block;
