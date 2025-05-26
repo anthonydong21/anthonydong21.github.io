@@ -9,14 +9,23 @@ body {
 }
 .center {
     display: block;
-    min-width: 300px;
-    max-width: 1300px;
+    min-width: 310px;
+    max-width: 1200px;
     background-color: transparent;
-    color: white;
+    color: black;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
-    
+}
+
+#blog {
+    display: flex;
+    background-color: ghostwhite;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-style: solid;
+    border-color: silver;
+    border-width: 0 3px 3px;
 }
 @font-face {
     font-family: 'MorrisRoman';
