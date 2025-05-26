@@ -1,3 +1,12 @@
+body {
+    margin: 0 auto;
+    padding-top: 2px;
+	padding: 0;
+	color: #333;
+	background: #000000 url("./images//background.jpg");
+        z-index: 2;
+        font-family: 'MorrisRoman', 'Franklin Gothic';
+}
 @font-face {
     font-family: 'MorrisRoman';
     src: url(fonts/MorrisRomanBlack.ttf);
@@ -6,7 +15,7 @@
         font-family: 'MorrisRoman', 'Franklin Gothic';
         font-size: 25px;
         font-weight: bold;
-        color: black;
+        color: white;
         text-align: center;
         margin: 0;
         padding: 0;
