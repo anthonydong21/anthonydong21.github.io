@@ -59,17 +59,17 @@ font-family: 'NewsGothic';
     margin: 7px 0;
 }
 .Morris {
-    font-family: 'Morris', 'Franklin Gothic';
+    font-family: 'MorrisRoman', 'Franklin Gothic';
     font-size: 16px;
     color: black;
     text-align: center;
     margin: 7px 0;
 }
 .MorrisBig {
-    font-family: 'Morris', 'Franklin Gothic';
+    font-family: 'MorrisRoman', 'Franklin Gothic';
     font-size: 35px;
     font-weight: bold;
-    color: rgb(240, 184, 252);
+    color: rgb(172, 153, 232);
     text-align: center;
     margin: 7px 0;
 }
