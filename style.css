@@ -33,6 +33,10 @@ body {
 @font-face {
     font-family: 'MorrisRoman';
     src: url(fonts/MorrisRomanBlack.ttf);
+    font-family: 'NewsGothic';
+    src: url(fonts/NewsGothicStd.otf);
+
+
 }
   .title-style {
         font-family: 'MorrisRoman', 'Franklin Gothic';
@@ -48,7 +52,7 @@ body {
 
 
 .century {
-    font-family: 'Century Gothic';
+    font-family: 'NewsGothic', 'Franklin Gothic';
     font-size: 18px;
     color: black;
     text-align: center;
