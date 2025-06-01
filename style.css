@@ -67,8 +67,9 @@ font-family: 'NewsGothic';
 }
 .MorrisBig {
     font-family: 'Morris', 'Franklin Gothic';
-    font-size: 25px;
-    color: 240, 184, 252;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(240, 184, 252);
     text-align: center;
     margin: 7px 0;
 }
