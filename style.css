@@ -20,7 +20,7 @@ body {
 }
 
 #blog {
-    display: flex;
+    
     background-color: ghostwhite;
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
@@ -33,10 +33,10 @@ body {
 @font-face {
     font-family: 'MorrisRoman';
     src: url(fonts/MorrisRomanBlack.ttf);
-    font-family: 'NewsGothic';
+}
+@font-face{
+font-family: 'NewsGothic';
     src: url(fonts/NewsGothicStd.otf);
-
-
 }
   .title-style {
         font-family: 'MorrisRoman', 'Franklin Gothic';
@@ -56,4 +56,5 @@ body {
     font-size: 16px;
     color: black;
     text-align: center;
+    margin: 5px 0;
 }
